@@ -1,0 +1,8 @@
+#goal
+int32 targer
+---
+#result
+float32 b
+---
+#feedback
+bool status
